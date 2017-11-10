@@ -1,0 +1,6 @@
+C:\Users\augus\Documents\Visual Studio 2017\Projects\RepositoryPattern\RepositoryPattern.domain\bin\Debug\RepositoryPattern.domain.dll
+C:\Users\augus\Documents\Visual Studio 2017\Projects\RepositoryPattern\RepositoryPattern.domain\bin\Debug\RepositoryPattern.domain.pdb
+C:\Users\augus\Documents\Visual Studio 2017\Projects\RepositoryPattern\RepositoryPattern.domain\obj\Debug\RepositoryPattern.domain.csprojResolveAssemblyReference.cache
+C:\Users\augus\Documents\Visual Studio 2017\Projects\RepositoryPattern\RepositoryPattern.domain\obj\Debug\RepositoryPattern.domain.csproj.CoreCompileInputs.cache
+C:\Users\augus\Documents\Visual Studio 2017\Projects\RepositoryPattern\RepositoryPattern.domain\obj\Debug\RepositoryPattern.domain.dll
+C:\Users\augus\Documents\Visual Studio 2017\Projects\RepositoryPattern\RepositoryPattern.domain\obj\Debug\RepositoryPattern.domain.pdb

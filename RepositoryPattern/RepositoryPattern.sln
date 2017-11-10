@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern.domain", "RepositoryPattern.domain\RepositoryPattern.domain.csproj", "{7CB9AB8C-4A1A-4E6D-8FD8-C8778BED1CCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern.Infra", "RepositoryPattern.Infra\RepositoryPattern.Infra.csproj", "{0FBB5C1C-44F5-4720-8FE1-67196E199C1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryPattern.Web", "RepositoryPattern.Web\RepositoryPattern.Web.csproj", "{76EBD36B-3932-4461-9E01-582D0DA9FF6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CB9AB8C-4A1A-4E6D-8FD8-C8778BED1CCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB9AB8C-4A1A-4E6D-8FD8-C8778BED1CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB9AB8C-4A1A-4E6D-8FD8-C8778BED1CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB9AB8C-4A1A-4E6D-8FD8-C8778BED1CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FBB5C1C-44F5-4720-8FE1-67196E199C1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FBB5C1C-44F5-4720-8FE1-67196E199C1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FBB5C1C-44F5-4720-8FE1-67196E199C1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FBB5C1C-44F5-4720-8FE1-67196E199C1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76EBD36B-3932-4461-9E01-582D0DA9FF6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EBD36B-3932-4461-9E01-582D0DA9FF6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EBD36B-3932-4461-9E01-582D0DA9FF6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EBD36B-3932-4461-9E01-582D0DA9FF6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPath = packages\Unity.2.1.505.0\lib\NET35
+		SolutionGuid = {6B48DEE1-EFB0-4180-8CA2-2BF0DB9FDED6}
+	EndGlobalSection
+EndGlobal
